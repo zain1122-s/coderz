@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+.main{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px , 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(300px, 1fr));
+   gap: 20px 20px;
+
+}
+.item{
+    border: 1px solid green;
+    background-color: black;
+    margin-top: 30px;
+    color: red;
+    text-align: center;
+    
+}
+.bt{
+    padding: 15px 20px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+    margin-top: 300px;
+}
