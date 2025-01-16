@@ -1,0 +1,165 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+.container{
+    background-color: rgb(199, 149, 23);
+    width: 100vw;
+    height: 80vh;
+    background-attachment: fixed;
+    
+}
+.box{
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+
+   
+}
+.bx1{
+    background-color: white;
+    width: 20%;
+    height: 50vh;
+    margin-top: 40px;
+    transition: all 300ms ;
+  
+    
+    
+}
+.bx2{
+    background-color: white;
+    width: 20%;
+    height: 50vh;
+    margin-top: 40px;
+    transition: all 300ms ;
+
+}
+.bx3{
+    background-color: white;
+    width: 20%;
+    height: 50vh;
+    margin-top: 40px;
+    transition: all 300ms ;
+
+}
+.bx4{
+    background-color: white;
+    width: 20%;
+    height: 50vh;
+    margin-top: 40px;
+    transition: all 300ms ;
+
+}
+.im1{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    object-position: top;
+    transition: all 300ms ;
+
+}
+.a1{
+    margin-left: 35%;
+}
+.a2{
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+.bt1{
+    padding: 15px 20px;
+    width: 250px;
+    margin-left: 45%;
+    margin-top: 90px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.bt1:hover{
+    background-color: rgb(255, 183, 0);
+    color: blue;
+}
+.bx2:hover{
+    background-color:black ;
+    color: white;
+}
+.bx3:hover{
+    background-color:black ;
+    color: white;
+}
+.bx4:hover{
+    background-color:black ;
+    color: white;
+}
+.bx1:hover{
+    background-color:black ;
+    color: white;
+}
+
+
+
+@media screen and (min-width:780px;) and (max-width:px) 
+{
+
+    .bx1{
+        background-color: white;
+        width: 20%;
+        height: 50vh;
+        margin-top: 40px;
+        transition: all 300ms ;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .bx1{
+        background-color: white;
+        width: 81%;
+        height: 60vh;
+        margin-top: 50px;
+        transition: all 300ms ;
+        overflow: auto;
+    }
+    .bx2{
+        background-color: white;
+        width: 81%;
+        height: 60vh;
+        margin-top: 50px;
+        transition: all 300ms ;
+        overflow: auto;
+    }
+    
+    .bx3{
+        background-color: white;
+        width: 81%;
+        height: 60vh;
+        margin-top: 50px;
+        transition: all 300ms ;
+        overflow: auto;
+    }
+    
+    .bx3{
+        background-color: white;
+        width: 81%;
+        height: 60vh;
+        margin-top: 50px;
+        transition: all 300ms ;
+        overflow: auto;
+    }
+    .bx3{
+        background-color: white;
+        width: 81%;
+        height: 60vh;
+        margin-top: 50px;
+        transition: all 300ms ;
+        overflow: auto;
+    }
+    
+    
+    
+
+      
+}
+
