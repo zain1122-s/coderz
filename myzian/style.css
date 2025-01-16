@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    background-color: rgba(98, 203, 230, 0.493);
+    height: 50vh;
+}
+
+.innerContainer{
+    max-width: 1140px;
+    margin:0 auto;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    flex: 1 1 23%;
+    background-color: rgb(88, 156, 201);
+    
+}
+
+.card img{
+    width:100%;
+    height:350px;
+    object-fit: cover;
+}
+
+.bt{
+    padding: 10px 20px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 1000px;
+    margin-top: 3%;
+    transition: all;
+    transition-duration: 400ms;
+    animation-name: SHAHZAIN;
+    animation-duration: 1s;
+    transition-delay: 3s;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+
+}
+.bt:hover{
+    background-color: black;
+    color: white;
+}
+.card:hover{
+    background-color: black;
+    color: red;
+}
+.img:hover{
+    background-image: url(img2.jpg);
+}
+
+
+@keyframes SHAHZAIN {
+    from{
+        transform: translateX(300px);
+        
+        
+
+    }
+    to{
+        transform: translateX(500px);
+       
+
+}
+
+@media screen and  (min-width:560px) and (max-width:780px){
+  
+.card{
+    flex:1 1 48%;
+}
+
+
+}
+
+
+@media screen and  (min-width:200px) and (max-width:560px){
+  
+    .card{
+        flex:1 1 100%;
+    }
+    
+    
+    }
