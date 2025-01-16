@@ -1,0 +1,149 @@
+.a1{
+    display: inline-block;
+}
+.a2{
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 20px;
+    word-spacing: 30px;
+    text-decoration: none;
+    
+}
+.a3{
+    display: inline-block;
+    margin-left: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+
+
+}
+.a4{
+    display: inline-block;
+    font-size: 20px;
+    word-spacing: 30px;
+ margin-left: 1300px;
+ 
+}
+.a5{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 11px;
+}
+.a6{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 11px;
+}
+a{
+color: black;
+text-decoration: none;
+}
+.a7{
+    word-spacing: 30px;
+
+    
+}
+.a8{
+    font-size: 60px;
+    color: bisque;
+}
+.a9{
+    color: rgb(190, 190, 64);
+}
+.b1{
+    border: none;
+    border-radius: 10px;
+    padding: 15px 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+
+}
+.b2{
+    margin-left: 866px;
+    font-size: larger;
+    
+}
+.b3{
+    background-color: rgb(190, 160, 218);
+}
+.b4{
+    font-size: 60px;
+}
+.b5{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: rgb(119, 209, 119);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.b6{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: rgb(237, 240, 87);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.b7{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color:rgb(41, 41, 88);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.b8{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: rgb(15, 15, 8);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.b9{
+    background-color: rgb(221, 221, 109);
+}
+.c1{
+    font-size: 60px;
+
+}
+.c2{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: rgb(119, 209, 119);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.c3{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color:rgb(41, 41, 88);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.img1{
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+  top: 280px;
+    left: 1200px;
+}
+.c4{
+    background-color: rgb(248, 186, 105);
+}
+.z1{
+    background-color: rgb(120, 120, 184);
+}
