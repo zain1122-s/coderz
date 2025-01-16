@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    display: flex;
+    position: sticky;
+    background-color: white;
+    flex-wrap: wrap;
+}
+
+.main{
+    display: flex;
+
+
+
+}
+
+
+.main ul {
+display: flex;
+gap: 50px;
+margin-left: 150px;
+flex-wrap: wrap;
+
+}
+
+.main ul a{
+    font-size: 33px;
+    text-decoration: none;
+    color: black;
+    margin-top: 25px;
+}
+
+.im1{
+    width: 80px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.bt1{
+    width: 130px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin-top: 10px;
+    background-color: rgb(112, 82, 184);
+    color: white;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+
+
+
+.bt1:hover{
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+    opacity: 0.8;
+    
+}
+
+.inpt{
+    border: 1px solid black;
+    width: 150px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    
+}
+
+.bodyy{
+    background-image: url(imgg1.webp);
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+
+  
+}
+.h1{
+ position: relative;
+ top: 100px;
+
+
+}
