@@ -1,0 +1,252 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Roboto", system-ui;
+}
+.box{
+    background-color: black;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 90vh;
+    background-position: center;
+    
+}
+.box1{
+    display: flex;
+    justify-content: space-between;    
+}
+.logo{
+    font-size: 50px;
+    color: red;
+    margin-top: 10px;
+    margin-left: 30px
+}
+.box1 ul{
+    display: flex;
+    gap: 70px;
+    list-style: none;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.box1 ul a{
+    text-decoration: none;
+    font-size: 30px;
+    color:white;   
+}
+.head{
+    margin-left: 300px;
+    margin-top: 350px;
+}
+.a1{
+font-size: 60px;
+color: red;
+}
+.a2{
+font-size: 60px;
+
+}
+.a3{
+    font-size: 30px;
+    margin-top: 20px;
+
+}
+.bt1{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-top: 40px;
+    font-size:20px ;
+    border-radius: 10px;
+    
+}
+.img{
+    position: absolute;
+    left: 1500px;
+    bottom: 300px;
+}
+.body{
+background-color: rgba(0, 0, 0, 0.867);
+width: 100vw;
+height: 75vh;
+display: flex;
+}
+.img2{
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.aa1{
+    text-decoration: none;
+    margin-left: 1200px;
+    margin-top: 500px;
+    
+}
+.m1{
+    margin-top: 100px;
+}
+.m2{
+    margin-left: 1200px;
+    margin-top: 12px;
+    font-size: 50px;
+}
+.m3{
+    margin-left: 1200px;
+    margin-top: 40px;
+    font-size:25px;
+    color: rgba(255, 255, 255, 0.424);
+
+}
+.boxx{
+    background-color: black;
+    width: 1100px;
+    height: 230px;
+    margin-left: 1200px;
+    padding: 30px 30px;
+    word-spacing: 30px;
+    line-height: 50px;
+    margin-top: 20px;
+}
+.b1{
+    padding: 15px 25px;
+    background-color: rgba(255, 255, 255, 0.194);
+    font-size: 20px;
+    width: 270px;
+    border: none;
+}
+
+.im{
+    position: absolute;
+    margin-left: 1100px;
+    bottom: 20px;
+    bottom: 300px;
+
+}
+.bo1{
+    border: none;
+    padding: 10px 20px;
+    width: 300px;
+    background-color: red;
+    margin-left: 1200px;
+    margin-top: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.contain{
+    background-color: black;
+    width: 100vw;
+    display: flex;
+    background-attachment: fixed;
+    background-position: center;
+    height: 80vh;
+}
+.h1{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.h2{
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.bx1{
+  width: 590px;
+    height: 250px;
+    background-color: rgba(195, 195, 195, 0.172);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px;  
+}
+.bx2{
+    width: 590px;
+    height: 250px;
+    background-color: rgba(195, 195, 195, 0.172);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px; 
+}
+.bx3{
+    width: 590px;
+    height: 250px;
+    background-color: rgba(195, 195, 195, 0.172);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px; 
+}
+.bx4{
+    width: 590px;
+    height: 250px;
+    background-color: rgba(195, 195, 195, 0.172);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px; 
+}
+.bx5{
+    width: 590px;
+    height: 250px;
+    background-color: rgba(195, 195, 195, 0.172);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px; 
+}
+.bx6{
+    width: 590px;
+    height: 250px;
+    background-color: rgba(195, 195, 195, 0.172);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px; 
+}
+.boxcnt{
+    display: flex;
+}
+.boxcnt1{
+    display: flex;
+}
+.a11{
+margin-left: 40%;
+margin-top: 90px;
+
+}
+.p1{
+    margin-left: 90px;
+    margin-top: 30px
+    
+}
+.p2{
+    margin-left: 200px;
+}
+.l1{
+    font-size: 35px;
+
+}
+.zain{
+    background-color: rgba(0, 0, 0, 0.698);
+    width: 100vw;
+    height: 30vh;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+}
+.az1{
+    margin-left: 300px;
+    font-size: 30px;   
+}
+.za2{
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.bn1{
+    padding: 10px 20px;
+    width: 200px;
+    background-color:red ;
+    border: none;
+    font-size: 20px;
+    margin-left: 1600px;
+    border-radius: 5px;
+
+    
+}
