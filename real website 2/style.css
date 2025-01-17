@@ -1,0 +1,176 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: white;
+   
+   
+}
+
+.box{
+    background:linear-gradient(To left, rgba(62, 97, 132, 0.72), rgba(7, 16, 75, 0.857)) ;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    align-items: center;
+    box-shadow: 5px 4px 15px 20px rgba(0, 0, 0, 0.5);
+    
+
+
+}
+.logo{
+    margin-left: 40px;
+    color: white;
+}
+.box1 ul{
+    list-style: none;
+    display: flex;
+    font-size: 25px;
+    gap: 40px;
+    margin-right: px;
+    
+    
+
+}
+
+.box1 ul a{
+    text-decoration: none;
+    color: white;
+    
+}
+.bt1{
+    border: none;
+    padding: 15px 25px;
+    border-radius: 30px;
+    background: linear-gradient(to left, rgba(8, 44, 80, 0.565), rgba(21, 25, 58, 0.641));
+    color: white;
+    font-size:15px;
+
+}
+.bt2{
+    border: none;
+    padding: 15px 25px;
+    border-radius: 30px;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.842), rgb(8, 17, 95));
+    color: white;
+    font-size:15px;
+    margin-right: 200px;
+}
+
+
+.box2{
+    background:linear-gradient(To left, rgba(62, 97, 132, 0.72), rgba(7, 16, 75, 0.857)) ;
+    background-attachment: fixed;
+    height: 90vh;
+    width: 100wh;
+}
+   
+.box3{
+    background-attachment: fixed;
+}
+.a1{
+    margin-left: 600px;
+    display: flex;
+    position: relative;
+    top: 200px;
+    font-size: 50px
+    
+}
+.a2{
+    position: relative;
+    margin-left: 600px;
+    top: 230px;
+    font-size:20px;
+}
+.bts{
+    border: none;
+    border-radius: 30px;
+    padding: 15px 20px;
+    width: 130px;
+    background: linear-gradient(To left, rgba(17, 65, 113, 0.72), rgba(7, 16, 75, 0.857));
+    margin-top: 300px;
+    margin-left: 600px;
+    font-size: 20px;
+}
+.bts1{
+    border: none;
+    border-radius: 30px;
+    padding: 15px 20px;
+    width: 130px;
+    background: linear-gradient(To left, rgba(62, 97, 132, 0.72), rgba(7, 16, 75, 0.857));
+    margin-top: 100px;
+    font-size:20px ;
+
+}
+.img{
+    position: absolute;
+    left: 70%;
+    top: 30%;
+    
+}
+.im1{
+    width:350px ;
+    height: 350px;
+}
+.div{
+    background:linear-gradient(To left, rgba(62, 97, 132, 0.72), rgba(7, 16, 75, 0.857)) ;
+    background-attachment: fixed;
+    height: 10vh;
+    width: 100wh;
+    box-shadow: 4px 5px 15px 4px rgba(0, 0, 0, 0.842);
+
+}
+.di1 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.di1 ul a{
+    text-decoration: none;
+    font-size: 50px;
+}
+.imd{
+    background:linear-gradient(To left, rgba(47, 48, 80, 0.973), rgb(58, 63, 117)) ;
+    width: 100wh;
+    height: 100vh;
+    background-attachment: fixed;
+    
+
+}
+.imgg{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+
+}
+.l11{
+    margin-top: 140px;
+  
+}
+.hd1{
+    font-size: 60px;
+    margin-left: 700px;
+    position: relative;
+    top: 70px;
+}
+.hd2{
+    font-size: 60px;
+    margin-left: 800px;
+    position: relative;
+    top: 80px;
+}
+.bb1{
+    display: flex;
+    border: 1px solid white;
+    width: 200px;
+    margin-left:400px ;
+    margin-top: 100px;
+}
+
+.pic1{
+
+
+}
