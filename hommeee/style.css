@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(234, 191, 134);
+    width: 100%;
+}
+.a1{
+    margin-left: 1300px;
+}
+.aa1{
+    display: flex;
+    gap: 32px;
+    margin-left: 1150px;
+    margin-top: 50px;
+
+}
+.aa1 a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.img{
+    height: 700px;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+
+
+@media screen and (min-width: 500px ;) and (max-width:780;) {
+    .all{
+        flex-direction: column;
+    }
+}
