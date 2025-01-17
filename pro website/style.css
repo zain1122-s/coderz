@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bx1 ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+.a1{
+    font-size: 60px;
+    margin-left: 100px;
+
+    
+}
+.bx1 ul a{
+    text-decoration: none;
+    color: black;
+   font-size: 30px;
+   font-weight: 200;
+   margin-right: 100px; 
+}
+a:hover{
+    color: brown;
+}
+.cont{
+    background-image:url(https://img.freepik.com/free-photo/panoramic-shot-top-snow-covered-mountain-cloudy-skies_181624-15634.jpg?t=st=1727721344~exp=1727724944~hmac=af950588e500ed7bb9f565138b29f218be2f7200c1b6b89e933bdfc5289a2222&w=1380) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 80vh;
+    
+}
+@media screen and (min-width:500px) (max-width:768px){
+
+    h1{
+        color:red;
+    }
+}
+
