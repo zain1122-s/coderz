@@ -1,0 +1,130 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    color: white;
+    
+}
+.con{
+    background-color: rgb(219, 206, 232);
+    padding: 20px 40px;
+    background: linear-gradient(to right , hsla(260, 64%, 31%, 0.906), hsla(236, 89%, 17%, 0.639));
+    box-shadow: 10px, 10px, 30px, 4px rgba(156, 110, 110, 0.3) ;
+ 
+}
+.incon{
+    max-width: 1540px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto;
+
+}
+.a1 h1{
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    align-items: center;
+    
+    
+}
+ .a2 ul a{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    color: white;
+}
+.bt1{
+    padding:10px 20px ;
+    border: none;
+    border-radius: 20px;
+    width: 130px;
+    color: black;
+    background: linear-gradient(to left, hsla(238, 37%, 62%, 0.788), rgba(70, 76, 141, 0.888) );
+    font-size: 20px;
+    color: white;
+}
+.con2{
+    background: linear-gradient(to right , hsla(260, 64%, 31%, 0.906), hsla(236, 89%, 17%, 0.639));
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+    
+}
+.a3{
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hd1{
+ margin-left: 400px;
+ font-size: 50px;
+ margin-top: 200px; 
+}
+.pr1{
+    font-size: 25px;
+    margin-left: 400px;
+    margin-top: 20px;
+   
+
+}
+.btn1{
+    margin-left: 400px;
+    margin-top: 40px;
+
+}
+.btn2{
+    padding: 10px 20px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(to left, rgb(8, 40, 182), rgba(54, 168, 205, 0.519) );
+font-size: 20px;
+}
+.btn3{
+    padding: 10px 20px;
+    width: 90px;
+    border: none;
+    border-radius:20px ;
+    background: linear-gradient(to left, rgba(5, 5, 5,0.3), rgba(2, 5, 6, 0.5) );
+font-size: 20px;
+}
+.img1{
+    margin-left: 1300px;
+    position: absolute;
+    top: 100px;
+    bottom: 50px;
+    width: 500px;
+    height: 500px;
+}
+.box1{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    background: linear-gradient(to right, rgba(6, 7, 7, 0.5), rgba(55, 54, 44, 0.5)) ;
+
+
+}
+.box1 ul{
+list-style: none;
+}
+.box1 ul a{
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+.box2{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.hh1{
+    font-size: 50px;
+}
+.box4{
+}
