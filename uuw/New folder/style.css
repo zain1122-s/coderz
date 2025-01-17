@@ -1,0 +1,12 @@
+.s1{
+    border: 2px solid red;
+    display: flex;
+    background-color: blue;
+    width: 100vw;
+    height: 20vh;
+    
+}
+.s2{
+    max-width: 1000px;
+    min-height: 300px;
+}
