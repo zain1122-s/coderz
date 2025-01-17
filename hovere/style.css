@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.incont{
+    display: flex;
+
+}
+.card{
+    width: 33%;
+    height: 70vh;
+    flex: 1;
+    transition: all;
+    transition-duration: 300ms
+
+}
+.h1{
+    padding: auto;
+}
+.card:hover{
+    flex: 2;
+}
